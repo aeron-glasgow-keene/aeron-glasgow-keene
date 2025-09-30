@@ -5,8 +5,10 @@ I have developed a myriad of skills from working across multiple industries, and
 
 ## Projects
 ### Pokémon Arcade
-This was my final group project for Dev Academy Aotearoa. We decided to create an online Pokémon-themed single page gaming app, written using TypeScript, React, Express and PostgreSQL. Showcases Auth0 integration, state management, and external API integration. I took on the role of Agile Facilitator, running daily stand ups and delegating tasks. \ 
-I grew up playing the Pokémon games and was thrilled to be a part of recreating the magic. I found animating the player sprite to be particularly rewarding, and gained a lot of respect for the mechanics of the games in the process - it was more complicated than I thought! This was also great practice in collaborative coding, task delegation and gitflow. \
+This was my final group project for Dev Academy Aotearoa. We decided to create an online Pokémon-themed single page gaming app, written using TypeScript, React, Express and PostgreSQL. Showcases Auth0 integration, state management, and external API integration. I took on the role of Agile Facilitator, running daily stand ups and delegating tasks.
+
+I grew up playing the Pokémon games and was thrilled to be a part of recreating the magic. I found animating the player sprite to be particularly rewarding, and gained a lot of respect for the mechanics of the games in the process - it was more complicated than I thought! This was also great practice in collaborative coding, task delegation and gitflow.
+
 The project is currently on hold while the rest of the coding course is completed, however I have added comments in client/index.tsx for ways we can make it even better.
 
 ## Tech Stack
